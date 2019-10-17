@@ -1,0 +1,12 @@
+
+Bsquid:S00108Ö")Either remove or fill this block of code.(´Ëì
+Rsquid:S1854Ë":Remove this useless assignment to local variable "result".(Ü†ø
+Gsquid:S1172­"/Remove this unused method parameter "searcher".(²ÈŞ
+fsquid:S00101Ô"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÂŞÆÎ
+jsquid:S3776ê"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ªôõÏ
+isquid:S1192ª"QUse already-defined constant 'DOWN_ACTION' instead of duplicating its value here.(ÆŸÛÙ
+gsquid:S1192¬"OUse already-defined constant 'UP_ACTION' instead of duplicating its value here.(¤Şö‹
+Bsquid:S00108¥")Either remove or fill this block of code.(´Ëì
+Lsquid:S1172”"/Remove this unused method parameter "searcher".(Üáıÿÿÿÿÿ
+esquid:CallToDeprecatedMethodû"<Remove this use of "getRecentFindStrings"; it is deprecated.(¤ÊÜœ
+jsquid:S00116,"RRename this field "GEN_MSG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÃæÔ

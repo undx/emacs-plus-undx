@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit=" Yank next word or character in buffer onto the end of the search string and search for it" />
+    <option name="and" path="ActionManager" hit=" Yank next word or character in buffer onto the end of the search string and search for it" />
+    <option name="buffer" path="ActionManager" hit=" Yank next word or character in buffer onto the end of the search string and search for it" />
+    <option name="character" path="ActionManager" hit=" Yank next word or character in buffer onto the end of the search string and search for it" />
+    <option name="end" path="ActionManager" hit=" Yank next word or character in buffer onto the end of the search string and search for it" />
+    <option name="for" path="ActionManager" hit=" Yank next word or character in buffer onto the end of the search string and search for it" />
+    <option name="in" path="ActionManager" hit=" Yank next word or character in buffer onto the end of the search string and search for it" />
+    <option name="it" path="ActionManager" hit=" Yank next word or character in buffer onto the end of the search string and search for it" />
+    <option name="next" path="ActionManager" hit=" Yank next word or character in buffer onto the end of the search string and search for it" />
+    <option name="of" path="ActionManager" hit=" Yank next word or character in buffer onto the end of the search string and search for it" />
+    <option name="onto" path="ActionManager" hit=" Yank next word or character in buffer onto the end of the search string and search for it" />
+    <option name="or" path="ActionManager" hit=" Yank next word or character in buffer onto the end of the search string and search for it" />
+    <option name="search" path="ActionManager" hit=" Yank next word or character in buffer onto the end of the search string and search for it" />
+    <option name="string" path="ActionManager" hit=" Yank next word or character in buffer onto the end of the search string and search for it" />
+    <option name="the" path="ActionManager" hit=" Yank next word or character in buffer onto the end of the search string and search for it" />
+    <option name="word" path="ActionManager" hit=" Yank next word or character in buffer onto the end of the search string and search for it" />
+    <option name="yank" path="ActionManager" hit=" Yank next word or character in buffer onto the end of the search string and search for it" />
+    <option name="allow" path="ActionManager" hit="Allow forward delete in isearch minibuffer" />
+    <option name="delete" path="ActionManager" hit="Allow forward delete in isearch minibuffer" />
+    <option name="forward" path="ActionManager" hit="Allow forward delete in isearch minibuffer" />
+    <option name="in" path="ActionManager" hit="Allow forward delete in isearch minibuffer" />
+    <option name="isearch" path="ActionManager" hit="Allow forward delete in isearch minibuffer" />
+    <option name="minibuffer" path="ActionManager" hit="Allow forward delete in isearch minibuffer" />
+    <option name="append" path="ActionManager" hit="Append Next Kill" />
+    <option name="kill" path="ActionManager" hit="Append Next Kill" />
+    <option name="next" path="ActionManager" hit="Append Next Kill" />
+    <option name="capitalize" path="ActionManager" hit="Capitalize the following word, moving over" />
+    <option name="following" path="ActionManager" hit="Capitalize the following word, moving over" />
+    <option name="moving" path="ActionManager" hit="Capitalize the following word, moving over" />
+    <option name="over" path="ActionManager" hit="Capitalize the following word, moving over" />
+    <option name="the" path="ActionManager" hit="Capitalize the following word, moving over" />
+    <option name="word" path="ActionManager" hit="Capitalize the following word, moving over" />
+    <option name="comment" path="ActionManager" hit="Comment dwim (Do What I Mean)" />
+    <option name="do" path="ActionManager" hit="Comment dwim (Do What I Mean)" />
+    <option name="dwim" path="ActionManager" hit="Comment dwim (Do What I Mean)" />
+    <option name="i" path="ActionManager" hit="Comment dwim (Do What I Mean)" />
+    <option name="mean" path="ActionManager" hit="Comment dwim (Do What I Mean)" />
+    <option name="what" path="ActionManager" hit="Comment dwim (Do What I Mean)" />
+    <option name="comment" path="ActionManager" hit="Comment next line" />
+    <option name="line" path="ActionManager" hit="Comment next line" />
+    <option name="next" path="ActionManager" hit="Comment next line" />
+    <option name="comment" path="ActionManager" hit="Comment previous line" />
+    <option name="line" path="ActionManager" hit="Comment previous line" />
+    <option name="previous" path="ActionManager" hit="Comment previous line" />
+    <option name="case" path="ActionManager" hit="Convert following word to lower case, moving over." />
+    <option name="convert" path="ActionManager" hit="Convert following word to lower case, moving over." />
+    <option name="following" path="ActionManager" hit="Convert following word to lower case, moving over." />
+    <option name="lower" path="ActionManager" hit="Convert following word to lower case, moving over." />
+    <option name="moving" path="ActionManager" hit="Convert following word to lower case, moving over." />
+    <option name="over" path="ActionManager" hit="Convert following word to lower case, moving over." />
+    <option name="to" path="ActionManager" hit="Convert following word to lower case, moving over." />
+    <option name="word" path="ActionManager" hit="Convert following word to lower case, moving over." />
+    <option name="case" path="ActionManager" hit="Convert following word to upper case, moving over" />
+    <option name="convert" path="ActionManager" hit="Convert following word to upper case, moving over" />
+    <option name="following" path="ActionManager" hit="Convert following word to upper case, moving over" />
+    <option name="moving" path="ActionManager" hit="Convert following word to upper case, moving over" />
+    <option name="over" path="ActionManager" hit="Convert following word to upper case, moving over" />
+    <option name="to" path="ActionManager" hit="Convert following word to upper case, moving over" />
+    <option name="upper" path="ActionManager" hit="Convert following word to upper case, moving over" />
+    <option name="word" path="ActionManager" hit="Convert following word to upper case, moving over" />
+    <option name="cut" path="ActionManager" hit="Cut text of selected region" />
+    <option name="of" path="ActionManager" hit="Cut text of selected region" />
+    <option name="region" path="ActionManager" hit="Cut text of selected region" />
+    <option name="selected" path="ActionManager" hit="Cut text of selected region" />
+    <option name="text" path="ActionManager" hit="Cut text of selected region" />
+    <option name="all" path="ActionManager" hit="Delete all spaces and tabs around point" />
+    <option name="and" path="ActionManager" hit="Delete all spaces and tabs around point" />
+    <option name="around" path="ActionManager" hit="Delete all spaces and tabs around point" />
+    <option name="delete" path="ActionManager" hit="Delete all spaces and tabs around point" />
+    <option name="point" path="ActionManager" hit="Delete all spaces and tabs around point" />
+    <option name="spaces" path="ActionManager" hit="Delete all spaces and tabs around point" />
+    <option name="tabs" path="ActionManager" hit="Delete all spaces and tabs around point" />
+    <option name="all" path="ActionManager" hit="Delete all spaces and tabs around point, leaving one space" />
+    <option name="and" path="ActionManager" hit="Delete all spaces and tabs around point, leaving one space" />
+    <option name="around" path="ActionManager" hit="Delete all spaces and tabs around point, leaving one space" />
+    <option name="delete" path="ActionManager" hit="Delete all spaces and tabs around point, leaving one space" />
+    <option name="leaving" path="ActionManager" hit="Delete all spaces and tabs around point, leaving one space" />
+    <option name="one" path="ActionManager" hit="Delete all spaces and tabs around point, leaving one space" />
+    <option name="point" path="ActionManager" hit="Delete all spaces and tabs around point, leaving one space" />
+    <option name="space" path="ActionManager" hit="Delete all spaces and tabs around point, leaving one space" />
+    <option name="spaces" path="ActionManager" hit="Delete all spaces and tabs around point, leaving one space" />
+    <option name="tabs" path="ActionManager" hit="Delete all spaces and tabs around point, leaving one space" />
+    <option name="blank" path="ActionManager" hit="Delete blank lines" />
+    <option name="delete" path="ActionManager" hit="Delete blank lines" />
+    <option name="lines" path="ActionManager" hit="Delete blank lines" />
+    <option name="character" path="ActionManager" hit="Delete character from end of search string" />
+    <option name="delete" path="ActionManager" hit="Delete character from end of search string" />
+    <option name="end" path="ActionManager" hit="Delete character from end of search string" />
+    <option name="from" path="ActionManager" hit="Delete character from end of search string" />
+    <option name="of" path="ActionManager" hit="Delete character from end of search string" />
+    <option name="search" path="ActionManager" hit="Delete character from end of search string" />
+    <option name="string" path="ActionManager" hit="Delete character from end of search string" />
+    <option name="backward" path="ActionManager" hit="Do incremental search backward for regular expression" />
+    <option name="do" path="ActionManager" hit="Do incremental search backward for regular expression" />
+    <option name="expression" path="ActionManager" hit="Do incremental search backward for regular expression" />
+    <option name="for" path="ActionManager" hit="Do incremental search backward for regular expression" />
+    <option name="incremental" path="ActionManager" hit="Do incremental search backward for regular expression" />
+    <option name="regular" path="ActionManager" hit="Do incremental search backward for regular expression" />
+    <option name="search" path="ActionManager" hit="Do incremental search backward for regular expression" />
+    <option name="do" path="ActionManager" hit="Do incremental search forward for regular expression" />
+    <option name="expression" path="ActionManager" hit="Do incremental search forward for regular expression" />
+    <option name="for" path="ActionManager" hit="Do incremental search forward for regular expression" />
+    <option name="forward" path="ActionManager" hit="Do incremental search forward for regular expression" />
+    <option name="incremental" path="ActionManager" hit="Do incremental search forward for regular expression" />
+    <option name="regular" path="ActionManager" hit="Do incremental search forward for regular expression" />
+    <option name="search" path="ActionManager" hit="Do incremental search forward for regular expression" />
+    <option name="and" path="ActionManager" hit="Exchange Point And Mark" />
+    <option name="exchange" path="ActionManager" hit="Exchange Point And Mark" />
+    <option name="mark" path="ActionManager" hit="Exchange Point And Mark" />
+    <option name="point" path="ActionManager" hit="Exchange Point And Mark" />
+    <option name="after" path="ActionManager" hit="Exchange current line and previous line, leaving point after both" />
+    <option name="and" path="ActionManager" hit="Exchange current line and previous line, leaving point after both" />
+    <option name="both" path="ActionManager" hit="Exchange current line and previous line, leaving point after both" />
+    <option name="current" path="ActionManager" hit="Exchange current line and previous line, leaving point after both" />
+    <option name="exchange" path="ActionManager" hit="Exchange current line and previous line, leaving point after both" />
+    <option name="leaving" path="ActionManager" hit="Exchange current line and previous line, leaving point after both" />
+    <option name="line" path="ActionManager" hit="Exchange current line and previous line, leaving point after both" />
+    <option name="point" path="ActionManager" hit="Exchange current line and previous line, leaving point after both" />
+    <option name="previous" path="ActionManager" hit="Exchange current line and previous line, leaving point after both" />
+    <option name="adjacent" path="ActionManager" hit="If window is split then unsplit all, else close adjacent tools" />
+    <option name="all" path="ActionManager" hit="If window is split then unsplit all, else close adjacent tools" />
+    <option name="close" path="ActionManager" hit="If window is split then unsplit all, else close adjacent tools" />
+    <option name="else" path="ActionManager" hit="If window is split then unsplit all, else close adjacent tools" />
+    <option name="if" path="ActionManager" hit="If window is split then unsplit all, else close adjacent tools" />
+    <option name="is" path="ActionManager" hit="If window is split then unsplit all, else close adjacent tools" />
+    <option name="split" path="ActionManager" hit="If window is split then unsplit all, else close adjacent tools" />
+    <option name="then" path="ActionManager" hit="If window is split then unsplit all, else close adjacent tools" />
+    <option name="tools" path="ActionManager" hit="If window is split then unsplit all, else close adjacent tools" />
+    <option name="unsplit" path="ActionManager" hit="If window is split then unsplit all, else close adjacent tools" />
+    <option name="window" path="ActionManager" hit="If window is split then unsplit all, else close adjacent tools" />
+    <option name="forward" path="ActionManager" hit="Incremental Search Forward" />
+    <option name="incremental" path="ActionManager" hit="Incremental Search Forward" />
+    <option name="search" path="ActionManager" hit="Incremental Search Forward" />
+    <option name="backwards" path="ActionManager" hit="Incremental search backwards" />
+    <option name="incremental" path="ActionManager" hit="Incremental search backwards" />
+    <option name="search" path="ActionManager" hit="Incremental search backwards" />
+    <option name="around" path="ActionManager" hit="Interchange characters around point, moving forward one character" />
+    <option name="character" path="ActionManager" hit="Interchange characters around point, moving forward one character" />
+    <option name="characters" path="ActionManager" hit="Interchange characters around point, moving forward one character" />
+    <option name="forward" path="ActionManager" hit="Interchange characters around point, moving forward one character" />
+    <option name="interchange" path="ActionManager" hit="Interchange characters around point, moving forward one character" />
+    <option name="moving" path="ActionManager" hit="Interchange characters around point, moving forward one character" />
+    <option name="one" path="ActionManager" hit="Interchange characters around point, moving forward one character" />
+    <option name="point" path="ActionManager" hit="Interchange characters around point, moving forward one character" />
+    <option name="around" path="ActionManager" hit="Interchange words around point, leaving point at end of them" />
+    <option name="at" path="ActionManager" hit="Interchange words around point, leaving point at end of them" />
+    <option name="end" path="ActionManager" hit="Interchange words around point, leaving point at end of them" />
+    <option name="interchange" path="ActionManager" hit="Interchange words around point, leaving point at end of them" />
+    <option name="leaving" path="ActionManager" hit="Interchange words around point, leaving point at end of them" />
+    <option name="of" path="ActionManager" hit="Interchange words around point, leaving point at end of them" />
+    <option name="point" path="ActionManager" hit="Interchange words around point, leaving point at end of them" />
+    <option name="them" path="ActionManager" hit="Interchange words around point, leaving point at end of them" />
+    <option name="words" path="ActionManager" hit="Interchange words around point, leaving point at end of them" />
+    <option name="and" path="ActionManager" hit="Join this line to previous and fix up whitespace at join" />
+    <option name="at" path="ActionManager" hit="Join this line to previous and fix up whitespace at join" />
+    <option name="fix" path="ActionManager" hit="Join this line to previous and fix up whitespace at join" />
+    <option name="join" path="ActionManager" hit="Join this line to previous and fix up whitespace at join" />
+    <option name="line" path="ActionManager" hit="Join this line to previous and fix up whitespace at join" />
+    <option name="previous" path="ActionManager" hit="Join this line to previous and fix up whitespace at join" />
+    <option name="this" path="ActionManager" hit="Join this line to previous and fix up whitespace at join" />
+    <option name="to" path="ActionManager" hit="Join this line to previous and fix up whitespace at join" />
+    <option name="up" path="ActionManager" hit="Join this line to previous and fix up whitespace at join" />
+    <option name="whitespace" path="ActionManager" hit="Join this line to previous and fix up whitespace at join" />
+    <option name="comment" path="ActionManager" hit="Jump to current comment or insert new one" />
+    <option name="current" path="ActionManager" hit="Jump to current comment or insert new one" />
+    <option name="insert" path="ActionManager" hit="Jump to current comment or insert new one" />
+    <option name="jump" path="ActionManager" hit="Jump to current comment or insert new one" />
+    <option name="new" path="ActionManager" hit="Jump to current comment or insert new one" />
+    <option name="one" path="ActionManager" hit="Jump to current comment or insert new one" />
+    <option name="or" path="ActionManager" hit="Jump to current comment or insert new one" />
+    <option name="to" path="ActionManager" hit="Jump to current comment or insert new one" />
+    <option name="a" path="ActionManager" hit="Kill characters backward until encountering the beginning of a word" />
+    <option name="backward" path="ActionManager" hit="Kill characters backward until encountering the beginning of a word" />
+    <option name="beginning" path="ActionManager" hit="Kill characters backward until encountering the beginning of a word" />
+    <option name="characters" path="ActionManager" hit="Kill characters backward until encountering the beginning of a word" />
+    <option name="encountering" path="ActionManager" hit="Kill characters backward until encountering the beginning of a word" />
+    <option name="kill" path="ActionManager" hit="Kill characters backward until encountering the beginning of a word" />
+    <option name="of" path="ActionManager" hit="Kill characters backward until encountering the beginning of a word" />
+    <option name="the" path="ActionManager" hit="Kill characters backward until encountering the beginning of a word" />
+    <option name="until" path="ActionManager" hit="Kill characters backward until encountering the beginning of a word" />
+    <option name="word" path="ActionManager" hit="Kill characters backward until encountering the beginning of a word" />
+    <option name="a" path="ActionManager" hit="Kill characters forward until encountering the end of a word" />
+    <option name="characters" path="ActionManager" hit="Kill characters forward until encountering the end of a word" />
+    <option name="encountering" path="ActionManager" hit="Kill characters forward until encountering the end of a word" />
+    <option name="end" path="ActionManager" hit="Kill characters forward until encountering the end of a word" />
+    <option name="forward" path="ActionManager" hit="Kill characters forward until encountering the end of a word" />
+    <option name="kill" path="ActionManager" hit="Kill characters forward until encountering the end of a word" />
+    <option name="of" path="ActionManager" hit="Kill characters forward until encountering the end of a word" />
+    <option name="the" path="ActionManager" hit="Kill characters forward until encountering the end of a word" />
+    <option name="until" path="ActionManager" hit="Kill characters forward until encountering the end of a word" />
+    <option name="word" path="ActionManager" hit="Kill characters forward until encountering the end of a word" />
+    <option name="comment" path="ActionManager" hit="Kill comment on current line" />
+    <option name="current" path="ActionManager" hit="Kill comment on current line" />
+    <option name="kill" path="ActionManager" hit="Kill comment on current line" />
+    <option name="line" path="ActionManager" hit="Kill comment on current line" />
+    <option name="on" path="ActionManager" hit="Kill comment on current line" />
+    <option name="current" path="ActionManager" hit="Kill current line" />
+    <option name="kill" path="ActionManager" hit="Kill current line" />
+    <option name="line" path="ActionManager" hit="Kill current line" />
+    <option name="current" path="ActionManager" hit="Kill the rest of the current line" />
+    <option name="kill" path="ActionManager" hit="Kill the rest of the current line" />
+    <option name="line" path="ActionManager" hit="Kill the rest of the current line" />
+    <option name="of" path="ActionManager" hit="Kill the rest of the current line" />
+    <option name="rest" path="ActionManager" hit="Kill the rest of the current line" />
+    <option name="the" path="ActionManager" hit="Kill the rest of the current line" />
+    <option name="a" path="ActionManager" hit="Like &lt;RET&gt; followed by inserting and aligning a comment" />
+    <option name="aligning" path="ActionManager" hit="Like &lt;RET&gt; followed by inserting and aligning a comment" />
+    <option name="and" path="ActionManager" hit="Like &lt;RET&gt; followed by inserting and aligning a comment" />
+    <option name="by" path="ActionManager" hit="Like &lt;RET&gt; followed by inserting and aligning a comment" />
+    <option name="comment" path="ActionManager" hit="Like &lt;RET&gt; followed by inserting and aligning a comment" />
+    <option name="followed" path="ActionManager" hit="Like &lt;RET&gt; followed by inserting and aligning a comment" />
+    <option name="inserting" path="ActionManager" hit="Like &lt;RET&gt; followed by inserting and aligning a comment" />
+    <option name="like" path="ActionManager" hit="Like &lt;RET&gt; followed by inserting and aligning a comment" />
+    <option name="ret" path="ActionManager" hit="Like &lt;RET&gt; followed by inserting and aligning a comment" />
+    <option name="a" path="ActionManager" hit="Move backward until encountering the beginning of a word" />
+    <option name="backward" path="ActionManager" hit="Move backward until encountering the beginning of a word" />
+    <option name="beginning" path="ActionManager" hit="Move backward until encountering the beginning of a word" />
+    <option name="encountering" path="ActionManager" hit="Move backward until encountering the beginning of a word" />
+    <option name="move" path="ActionManager" hit="Move backward until encountering the beginning of a word" />
+    <option name="of" path="ActionManager" hit="Move backward until encountering the beginning of a word" />
+    <option name="the" path="ActionManager" hit="Move backward until encountering the beginning of a word" />
+    <option name="until" path="ActionManager" hit="Move backward until encountering the beginning of a word" />
+    <option name="word" path="ActionManager" hit="Move backward until encountering the beginning of a word" />
+    <option name="buffer" path="ActionManager" hit="Move current buffer line to the specified window line" />
+    <option name="current" path="ActionManager" hit="Move current buffer line to the specified window line" />
+    <option name="line" path="ActionManager" hit="Move current buffer line to the specified window line" />
+    <option name="move" path="ActionManager" hit="Move current buffer line to the specified window line" />
+    <option name="specified" path="ActionManager" hit="Move current buffer line to the specified window line" />
+    <option name="the" path="ActionManager" hit="Move current buffer line to the specified window line" />
+    <option name="to" path="ActionManager" hit="Move current buffer line to the specified window line" />
+    <option name="window" path="ActionManager" hit="Move current buffer line to the specified window line" />
+    <option name="a" path="ActionManager" hit="Move point forward a word" />
+    <option name="forward" path="ActionManager" hit="Move point forward a word" />
+    <option name="move" path="ActionManager" hit="Move point forward a word" />
+    <option name="point" path="ActionManager" hit="Move point forward a word" />
+    <option name="word" path="ActionManager" hit="Move point forward a word" />
+    <option name="character" path="ActionManager" hit="Move point to the first non-whitespace character on this line" />
+    <option name="first" path="ActionManager" hit="Move point to the first non-whitespace character on this line" />
+    <option name="line" path="ActionManager" hit="Move point to the first non-whitespace character on this line" />
+    <option name="move" path="ActionManager" hit="Move point to the first non-whitespace character on this line" />
+    <option name="non-whitespace" path="ActionManager" hit="Move point to the first non-whitespace character on this line" />
+    <option name="on" path="ActionManager" hit="Move point to the first non-whitespace character on this line" />
+    <option name="point" path="ActionManager" hit="Move point to the first non-whitespace character on this line" />
+    <option name="the" path="ActionManager" hit="Move point to the first non-whitespace character on this line" />
+    <option name="this" path="ActionManager" hit="Move point to the first non-whitespace character on this line" />
+    <option name="to" path="ActionManager" hit="Move point to the first non-whitespace character on this line" />
+    <option name="buffer" path="ActionManager" hit="Print current buffer line number" />
+    <option name="current" path="ActionManager" hit="Print current buffer line number" />
+    <option name="line" path="ActionManager" hit="Print current buffer line number" />
+    <option name="number" path="ActionManager" hit="Print current buffer line number" />
+    <option name="print" path="ActionManager" hit="Print current buffer line number" />
+    <option name="cursor" path="ActionManager" hit="Print info on cursor position" />
+    <option name="info" path="ActionManager" hit="Print info on cursor position" />
+    <option name="on" path="ActionManager" hit="Print info on cursor position" />
+    <option name="position" path="ActionManager" hit="Print info on cursor position" />
+    <option name="print" path="ActionManager" hit="Print info on cursor position" />
+    <option name="killed" path="ActionManager" hit="Reinsert the last stretched of killed text" />
+    <option name="last" path="ActionManager" hit="Reinsert the last stretched of killed text" />
+    <option name="of" path="ActionManager" hit="Reinsert the last stretched of killed text" />
+    <option name="reinsert" path="ActionManager" hit="Reinsert the last stretched of killed text" />
+    <option name="stretched" path="ActionManager" hit="Reinsert the last stretched of killed text" />
+    <option name="text" path="ActionManager" hit="Reinsert the last stretched of killed text" />
+    <option name="the" path="ActionManager" hit="Reinsert the last stretched of killed text" />
+    <option name="a" path="ActionManager" hit="Replace just yanked stretch of killed text with a different stetch" />
+    <option name="different" path="ActionManager" hit="Replace just yanked stretch of killed text with a different stetch" />
+    <option name="just" path="ActionManager" hit="Replace just yanked stretch of killed text with a different stetch" />
+    <option name="killed" path="ActionManager" hit="Replace just yanked stretch of killed text with a different stetch" />
+    <option name="of" path="ActionManager" hit="Replace just yanked stretch of killed text with a different stetch" />
+    <option name="replace" path="ActionManager" hit="Replace just yanked stretch of killed text with a different stetch" />
+    <option name="stetch" path="ActionManager" hit="Replace just yanked stretch of killed text with a different stetch" />
+    <option name="stretch" path="ActionManager" hit="Replace just yanked stretch of killed text with a different stetch" />
+    <option name="text" path="ActionManager" hit="Replace just yanked stretch of killed text with a different stetch" />
+    <option name="with" path="ActionManager" hit="Replace just yanked stretch of killed text with a different stetch" />
+    <option name="yanked" path="ActionManager" hit="Replace just yanked stretch of killed text with a different stetch" />
+    <option name="for" path="ActionManager" hit="Replace some matches for REGEXP with NEWSTRING" />
+    <option name="matches" path="ActionManager" hit="Replace some matches for REGEXP with NEWSTRING" />
+    <option name="newstring" path="ActionManager" hit="Replace some matches for REGEXP with NEWSTRING" />
+    <option name="regexp" path="ActionManager" hit="Replace some matches for REGEXP with NEWSTRING" />
+    <option name="replace" path="ActionManager" hit="Replace some matches for REGEXP with NEWSTRING" />
+    <option name="some" path="ActionManager" hit="Replace some matches for REGEXP with NEWSTRING" />
+    <option name="with" path="ActionManager" hit="Replace some matches for REGEXP with NEWSTRING" />
+    <option name="from-string" path="ActionManager" hit="Replace some occurrences of FROM-STRING with TO-STRING." />
+    <option name="occurrences" path="ActionManager" hit="Replace some occurrences of FROM-STRING with TO-STRING." />
+    <option name="of" path="ActionManager" hit="Replace some occurrences of FROM-STRING with TO-STRING." />
+    <option name="replace" path="ActionManager" hit="Replace some occurrences of FROM-STRING with TO-STRING." />
+    <option name="some" path="ActionManager" hit="Replace some occurrences of FROM-STRING with TO-STRING." />
+    <option name="to-string" path="ActionManager" hit="Replace some occurrences of FROM-STRING with TO-STRING." />
+    <option name="with" path="ActionManager" hit="Replace some occurrences of FROM-STRING with TO-STRING." />
+    <option name="as" path="ActionManager" hit="Save the region as if killed, but don't kill it" />
+    <option name="but" path="ActionManager" hit="Save the region as if killed, but don't kill it" />
+    <option name="don" path="ActionManager" hit="Save the region as if killed, but don't kill it" />
+    <option name="if" path="ActionManager" hit="Save the region as if killed, but don't kill it" />
+    <option name="it" path="ActionManager" hit="Save the region as if killed, but don't kill it" />
+    <option name="kill" path="ActionManager" hit="Save the region as if killed, but don't kill it" />
+    <option name="killed" path="ActionManager" hit="Save the region as if killed, but don't kill it" />
+    <option name="region" path="ActionManager" hit="Save the region as if killed, but don't kill it" />
+    <option name="save" path="ActionManager" hit="Save the region as if killed, but don't kill it" />
+    <option name="t" path="ActionManager" hit="Save the region as if killed, but don't kill it" />
+    <option name="the" path="ActionManager" hit="Save the region as if killed, but don't kill it" />
+    <option name="for" path="ActionManager" hit="Search for the next item in the search history" />
+    <option name="history" path="ActionManager" hit="Search for the next item in the search history" />
+    <option name="in" path="ActionManager" hit="Search for the next item in the search history" />
+    <option name="item" path="ActionManager" hit="Search for the next item in the search history" />
+    <option name="next" path="ActionManager" hit="Search for the next item in the search history" />
+    <option name="search" path="ActionManager" hit="Search for the next item in the search history" />
+    <option name="the" path="ActionManager" hit="Search for the next item in the search history" />
+    <option name="for" path="ActionManager" hit="Search for the previous item in the search history" />
+    <option name="history" path="ActionManager" hit="Search for the previous item in the search history" />
+    <option name="in" path="ActionManager" hit="Search for the previous item in the search history" />
+    <option name="item" path="ActionManager" hit="Search for the previous item in the search history" />
+    <option name="previous" path="ActionManager" hit="Search for the previous item in the search history" />
+    <option name="search" path="ActionManager" hit="Search for the previous item in the search history" />
+    <option name="the" path="ActionManager" hit="Search for the previous item in the search history" />
+    <option name="and" path="ActionManager" hit="Select and switch to buffer" />
+    <option name="buffer" path="ActionManager" hit="Select and switch to buffer" />
+    <option name="select" path="ActionManager" hit="Select and switch to buffer" />
+    <option name="switch" path="ActionManager" hit="Select and switch to buffer" />
+    <option name="to" path="ActionManager" hit="Select and switch to buffer" />
+    <option name="a" path="ActionManager" hit="Signal a 'quit' condition" />
+    <option name="condition" path="ActionManager" hit="Signal a 'quit' condition" />
+    <option name="quit" path="ActionManager" hit="Signal a 'quit' condition" />
+    <option name="signal" path="ActionManager" hit="Signal a 'quit' condition" />
+    <option name="mode" path="ActionManager" hit="Toggle Words mode" />
+    <option name="toggle" path="ActionManager" hit="Toggle Words mode" />
+    <option name="words" path="ActionManager" hit="Toggle Words mode" />
+    <option name="isearch" path="ActionManager" hit="Toggle multi-line isearch minibuffer" />
+    <option name="minibuffer" path="ActionManager" hit="Toggle multi-line isearch minibuffer" />
+    <option name="multi-line" path="ActionManager" hit="Toggle multi-line isearch minibuffer" />
+    <option name="toggle" path="ActionManager" hit="Toggle multi-line isearch minibuffer" />
+    <option name="expression" path="ActionManager" hit="Toggle regular expression mode" />
+    <option name="mode" path="ActionManager" hit="Toggle regular expression mode" />
+    <option name="regular" path="ActionManager" hit="Toggle regular expression mode" />
+    <option name="toggle" path="ActionManager" hit="Toggle regular expression mode" />
+    <option name="case-sensitivity" path="ActionManager" hit="Toggles search case-sensitivity" />
+    <option name="search" path="ActionManager" hit="Toggles search case-sensitivity" />
+    <option name="toggles" path="ActionManager" hit="Toggles search case-sensitivity" />
+    <option name="and" path="ActionManager" hit="Yank char from buffer onto end of search string and search for it" />
+    <option name="buffer" path="ActionManager" hit="Yank char from buffer onto end of search string and search for it" />
+    <option name="char" path="ActionManager" hit="Yank char from buffer onto end of search string and search for it" />
+    <option name="end" path="ActionManager" hit="Yank char from buffer onto end of search string and search for it" />
+    <option name="for" path="ActionManager" hit="Yank char from buffer onto end of search string and search for it" />
+    <option name="from" path="ActionManager" hit="Yank char from buffer onto end of search string and search for it" />
+    <option name="it" path="ActionManager" hit="Yank char from buffer onto end of search string and search for it" />
+    <option name="of" path="ActionManager" hit="Yank char from buffer onto end of search string and search for it" />
+    <option name="onto" path="ActionManager" hit="Yank char from buffer onto end of search string and search for it" />
+    <option name="search" path="ActionManager" hit="Yank char from buffer onto end of search string and search for it" />
+    <option name="string" path="ActionManager" hit="Yank char from buffer onto end of search string and search for it" />
+    <option name="yank" path="ActionManager" hit="Yank char from buffer onto end of search string and search for it" />
+    <option name="and" path="ActionManager" hit="Yank rest of line onto end of search string and search for it" />
+    <option name="end" path="ActionManager" hit="Yank rest of line onto end of search string and search for it" />
+    <option name="for" path="ActionManager" hit="Yank rest of line onto end of search string and search for it" />
+    <option name="it" path="ActionManager" hit="Yank rest of line onto end of search string and search for it" />
+    <option name="line" path="ActionManager" hit="Yank rest of line onto end of search string and search for it" />
+    <option name="of" path="ActionManager" hit="Yank rest of line onto end of search string and search for it" />
+    <option name="onto" path="ActionManager" hit="Yank rest of line onto end of search string and search for it" />
+    <option name="rest" path="ActionManager" hit="Yank rest of line onto end of search string and search for it" />
+    <option name="search" path="ActionManager" hit="Yank rest of line onto end of search string and search for it" />
+    <option name="string" path="ActionManager" hit="Yank rest of line onto end of search string and search for it" />
+    <option name="yank" path="ActionManager" hit="Yank rest of line onto end of search string and search for it" />
+    <option name="killed" path="ActionManager" hit="Yank the last string of killed text" />
+    <option name="last" path="ActionManager" hit="Yank the last string of killed text" />
+    <option name="of" path="ActionManager" hit="Yank the last string of killed text" />
+    <option name="string" path="ActionManager" hit="Yank the last string of killed text" />
+    <option name="text" path="ActionManager" hit="Yank the last string of killed text" />
+    <option name="the" path="ActionManager" hit="Yank the last string of killed text" />
+    <option name="yank" path="ActionManager" hit="Yank the last string of killed text" />
+    <option name="append-next-kill" path="ActionManager" hit="append-next-kill" />
+    <option name="back-to-indentation" path="ActionManager" hit="back-to-indentation" />
+    <option name="backward-kill-word" path="ActionManager" hit="backward-kill-word" />
+    <option name="backward-word" path="ActionManager" hit="backward-word" />
+    <option name="capitalize-word" path="ActionManager" hit="capitalize-word" />
+    <option name="comment-dwim" path="ActionManager" hit="comment-dwim" />
+    <option name="comment-indent" path="ActionManager" hit="comment-indent" />
+    <option name="comment-indent-new-line" path="ActionManager" hit="comment-indent-new-line" />
+    <option name="comment-kill" path="ActionManager" hit="comment-kill" />
+    <option name="comment-next-line" path="ActionManager" hit="comment-next-line" />
+    <option name="comment-previous-line" path="ActionManager" hit="comment-previous-line" />
+    <option name="delete-blank-lines" path="ActionManager" hit="delete-blank-lines" />
+    <option name="delete-horizontal-space" path="ActionManager" hit="delete-horizontal-space" />
+    <option name="delete-indentation" path="ActionManager" hit="delete-indentation" />
+    <option name="delete-other-windows" path="ActionManager" hit="delete-other-windows" />
+    <option name="downcase-word" path="ActionManager" hit="downcase-word" />
+    <option name="exchange-point-and-mark" path="ActionManager" hit="exchange-point-and-mark" />
+    <option name="forward-word" path="ActionManager" hit="forward-word" />
+    <option name="is-case" path="ActionManager" hit="is-case" />
+    <option name="is-delete-char" path="ActionManager" hit="is-delete-char" />
+    <option name="is-forward-delete" path="ActionManager" hit="is-forward-delete" />
+    <option name="is-multiline" path="ActionManager" hit="is-multiline" />
+    <option name="is-regex" path="ActionManager" hit="is-regex" />
+    <option name="is-word" path="ActionManager" hit="is-word" />
+    <option name="is-yank-char" path="ActionManager" hit="is-yank-char" />
+    <option name="is-yank-last" path="ActionManager" hit="is-yank-last" />
+    <option name="is-yank-line" path="ActionManager" hit="is-yank-line" />
+    <option name="is-yank-next-word" path="ActionManager" hit="is-yank-next-word" />
+    <option name="isearch-backward" path="ActionManager" hit="isearch-backward" />
+    <option name="isearch-backward-regexp" path="ActionManager" hit="isearch-backward-regexp" />
+    <option name="isearch-forward" path="ActionManager" hit="isearch-forward" />
+    <option name="isearch-forward-regexp" path="ActionManager" hit="isearch-forward-regexp" />
+    <option name="isearch-history-next" path="ActionManager" hit="isearch-history-next" />
+    <option name="isearch-history-previous" path="ActionManager" hit="isearch-history-previous" />
+    <option name="just-one-space" path="ActionManager" hit="just-one-space" />
+    <option name="keyboard-quit" path="ActionManager" hit="keyboard-quit" />
+    <option name="kill-line" path="ActionManager" hit="kill-line" />
+    <option name="kill-region" path="ActionManager" hit="kill-region" />
+    <option name="kill-ring-save" path="ActionManager" hit="kill-ring-save" />
+    <option name="kill-whole-line" path="ActionManager" hit="kill-whole-line" />
+    <option name="kill-word" path="ActionManager" hit="kill-word" />
+    <option name="query-replace" path="ActionManager" hit="query-replace" />
+    <option name="query-replace-regexp" path="ActionManager" hit="query-replace-regexp" />
+    <option name="recenter-top-bottom" path="ActionManager" hit="recenter-top-bottom" />
+    <option name="switch-to-buffer" path="ActionManager" hit="switch-to-buffer" />
+    <option name="transpose-chars" path="ActionManager" hit="transpose-chars" />
+    <option name="transpose-lines" path="ActionManager" hit="transpose-lines" />
+    <option name="transpose-words" path="ActionManager" hit="transpose-words" />
+    <option name="tw-begin" path="ActionManager" hit="tw-begin" />
+    <option name="tw-end" path="ActionManager" hit="tw-end" />
+    <option name="tw-interrupt" path="ActionManager" hit="tw-interrupt" />
+    <option name="tw-scroll-down" path="ActionManager" hit="tw-scroll-down" />
+    <option name="tw-scroll-up" path="ActionManager" hit="tw-scroll-up" />
+    <option name="tw-select-next" path="ActionManager" hit="tw-select-next" />
+    <option name="tw-select-previous" path="ActionManager" hit="tw-select-previous" />
+    <option name="upcase-word" path="ActionManager" hit="upcase-word" />
+    <option name="what-cursor-position" path="ActionManager" hit="what-cursor-position" />
+    <option name="what-line" path="ActionManager" hit="what-line" />
+    <option name="yank" path="ActionManager" hit="yank" />
+    <option name="yank-pop" path="ActionManager" hit="yank-pop" />
+  </configurable>
+</options>
+
