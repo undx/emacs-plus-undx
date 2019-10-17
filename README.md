@@ -1,6 +1,9 @@
 # emacs-plus
 
-Some patches to make the IntelliJ Emacs+ plugin work correctly with recent versions of IntelliJ.
+Some patches to make the IntelliJ Emacs+ plugin work correctly with recent versions of IntelliJ (2019.x).
+
+Forked from [cursive-ide/emacs-plus](https://github.com/cursive-ide/emacs-plus) to upgrade plugin to intellij latest
+ version.
 
 This is a repackaged version of the original Mulgasoft [Emacs+](http://www.mulgasoft.com/intellemacsplus) plugin for 
 IntelliJ. Unfortunately the project was never open sourced and was effectively abandoned in a state which made the
